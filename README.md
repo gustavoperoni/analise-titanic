@@ -1,6 +1,6 @@
 # 🚢 Análise de Dados do Titanic
 
-Projeto de análise exploratória de dados utilizando Python e Pandas.
+Projeto de análise exploratória de dados utilizando Python, Pandas e Matplotlib.
 
 ---
 
@@ -12,6 +12,7 @@ O objetivo deste projeto é praticar análise de dados, explorando, limpando e a
 ## 🧠 Ferramentas utilizadas
 - Python  
 - Pandas  
+- Matplotlib  
 - Jupyter Notebook  
 
 ---
@@ -20,6 +21,12 @@ O objetivo deste projeto é praticar análise de dados, explorando, limpando e a
 - Sobrevivência por gênero  
 - Sobrevivência por classe social  
 - Sobrevivência por faixa etária  
+- Criação de gráficos para visualização dos padrões de sobrevivência  
+
+---
+
+## 📈 Visualização dos dados
+Foram utilizados gráficos com a biblioteca Matplotlib para representar os padrões de sobrevivência, permitindo uma análise mais clara e intuitiva dos dados em relação a gênero, classe social e faixa etária.
 
 ---
 
@@ -27,7 +34,7 @@ O objetivo deste projeto é praticar análise de dados, explorando, limpando e a
 - Limpeza e tratamento de dados ausentes  
 - Remoção de colunas desnecessárias  
 - Criação de faixas de idade  
-- Análise exploratória dos dados  
+- Análise exploratória dos dados com uso de gráficos  
 
 ---
 
